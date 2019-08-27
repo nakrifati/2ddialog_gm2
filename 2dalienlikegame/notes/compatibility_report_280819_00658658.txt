@@ -1,0 +1,167 @@
+Converting GML script: ${project_dir}\scripts\scr_item_db\scr_item_db.gml
+Converted string - line 3: 'sprite' -> "sprite"
+Converted string - line 4: 'speed_bonus' -> "speed_bonus"
+Converted string - line 5: 'type' -> "type"
+Converted string - line 5: 'cloth' -> "cloth"
+Converted string - line 8: 'sprite' -> "sprite"
+Converted string - line 9: 'type' -> "type"
+Converted string - line 9: 'misc' -> "misc"
+Converted string - line 16: 'obj_hat' -> "obj_hat"
+Converted string - line 17: 'obj_empty' -> "obj_empty"
+
+Converting GML script: ${project_dir}\scripts\scr_dialog_start\scr_dialog_start.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted string - line 3: 'run' -> "run"
+
+Converting GML script: ${project_dir}\scripts\scr_dialog_stage\scr_dialog_stage.gml
+Converted string - line 3: 'a' -> "a"
+Converted string - line 7: 'b' -> "b"
+Converted string - line 11: 'c' -> "c"
+
+Converting GML script: ${project_dir}\scripts\scr_dialog_action\scr_dialog_action.gml
+Converted string - line 9: 'EndConv' -> "EndConv"
+Converted string - line 19: '' -> ""
+Converted string - line 21: '' -> ""
+Converted string - line 22: 'pause' -> "pause"
+Converted string - line 25: 'EndConv_1' -> "EndConv_1"
+Converted string - line 36: '' -> ""
+Converted string - line 38: '' -> ""
+Converted string - line 39: 'pause' -> "pause"
+Converted string - line 43: 'Text' -> "Text"
+Converted string - line 44: 'A_t' -> "A_t"
+Converted string - line 45: 'B_t' -> "B_t"
+Converted string - line 46: 'C_t' -> "C_t"
+
+Converting GML script: ${project_dir}\objects\obj_gg\Step_0.gml
+Converted string - line 30: 'hat' -> "hat"
+Converted string - line 30: 'speed_bonus' -> "speed_bonus"
+
+Converting GML script: ${project_dir}\objects\obj_gui\Draw_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 23: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 23: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 23: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 23: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_inventory_box\Create_0.gml
+Converted string - line 2: '' -> ""
+
+Converting GML script: ${project_dir}\objects\obj_inventory_box\Step_2.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_inventory_box\Mouse_4.gml
+Converted string - line 2: 'pause' -> "pause"
+Converted string - line 2: 'cloth' -> "cloth"
+Converted string - line 8: 'pause' -> "pause"
+Converted string - line 8: 'cloth' -> "cloth"
+Converted string - line 10: 'type' -> "type"
+Converted string - line 10: 'cloth' -> "cloth"
+
+Converting GML script: ${project_dir}\objects\obj_inventory_box\Draw_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted string - line 1: 'pause' -> "pause"
+
+Converting GML script: ${project_dir}\objects\obj_inv_control\Alarm_0.gml
+Converted string - line 1: 'pause' -> "pause"
+
+Converting GML script: ${project_dir}\objects\obj_inv_control\Mouse_56.gml
+Converted string - line 4: 'pause' -> "pause"
+Converted string - line 10: 'type' -> "type"
+Converted string - line 10: '' -> ""
+
+Converting GML script: ${project_dir}\objects\obj_hat_box\Create_0.gml
+Converted string - line 2: 'cloth' -> "cloth"
+
+Converting GML script: ${project_dir}\objects\obj_hat_box\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted string - line 1: 'pause' -> "pause"
+
+Converting GML script: ${project_dir}\objects\obj_npc_test\Mouse_7.gml
+Converted string - line 5: 'H001' -> "H001"
+
+Converting GML script: ${project_dir}\objects\obj_global\Create_0.gml
+Converted string - line 6: '' -> ""
+Converted string - line 8: '' -> ""
+Converted string - line 11: 'run' -> "run"
+
+Converting GML script: ${project_dir}\objects\obj_smart_tank\Alarm_1.gml
+Converted description /// @description If seen and escaped increase its vision by 5 and speed by 0.02
+
+Converting GML script: ${project_dir}\objects\obj_smart_tank\Alarm_0.gml
+Converted description /// @description call script
+
+Converting GML script: EasyLighting.gml
+Converted string - line 50: "\penumbra_s.png" -> "\\penumbra_s.png"
+Converted string - line 51: "\penumbra_s.png" -> "\\penumbra_s.png"
+Converted string - line 53: "\penumbra_s.png" -> "\\penumbra_s.png"
+
+Converting GML script: EasyLighting.gml
+Converted builtin - line 31: view_xview[ID] -> __view_get( e__VW.XView, ID )
+Converted builtin - line 31: view_yview[ID] -> __view_get( e__VW.YView, ID )
+
+Converting GML script: EasyLighting.gml
+Converted builtin - line 8: view_wview[argument0] -> __view_get( e__VW.WView, argument0 )
+Converted builtin - line 8: view_hview[argument0] -> __view_get( e__VW.HView, argument0 )
+
+Converting GML script: EasyLighting.gml
+Converted builtin - line 14: view_wview[ID] -> __view_get( e__VW.WView, ID )
+Converted builtin - line 14: view_hview[ID] -> __view_get( e__VW.HView, ID )
+
+Converting GML script: EasyLighting.gml
+Converted builtin - line 26: view_xview[ID] -> __view_get( e__VW.XView, ID )
+Converted builtin - line 27: view_yview[ID] -> __view_get( e__VW.YView, ID )
+Converted builtin - line 38: view_wview[ID] -> __view_get( e__VW.WView, ID )
+Converted builtin - line 38: view_hview[ID] -> __view_get( e__VW.HView, ID )
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 30
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_set_motion.gml'
+Added compatibility script 'action/action_sprite_color.gml'
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'draw/draw_set_blend_mode_ext.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
