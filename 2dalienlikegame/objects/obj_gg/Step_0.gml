@@ -2,7 +2,7 @@ if global.dialog_state=false
 {
 image_angle=point_direction(x,y,mouse_x,mouse_y)
 }
-ls_light_set_pos(mouselight,x,y);
+
 
 //if distance_to_object(target) > 5
 //{
@@ -24,12 +24,6 @@ actual_speed=8
 
 walk_speed=actual_speed+speed_bonus
 
-
-if (cloth != -1)
-{
-speed_bonus = scr_get_item_value("hat", "speed_bonus");
-}
-else { speed_bonus = 0}
 
 // timer
 moment -=1/room_speed

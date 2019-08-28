@@ -1,2 +1,2 @@
-instance_create(x+20,y+20,obj_hat)
+instance_create(x+20,y+20,obj_hamburger)
 

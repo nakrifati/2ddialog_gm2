@@ -1,19 +1,10 @@
 {
-    "id": "93fd3767-398e-42a3-9285-4f2d3611ebac",
+    "id": "7b6fcadd-3bc1-4c20-87d6-4dc56fb5bc74",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_static_light",
+    "name": "obj_hamburger",
     "eventList": [
-        {
-            "id": "38aa93f7-a29f-4e18-ae74-3e1152a96d5e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "93fd3767-398e-42a3-9285-4f2d3611ebac"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -28,13 +19,11 @@
     "physicsObject": false,
     "physicsRestitution": 0.1,
     "physicsSensor": false,
-    "physicsShape": 0,
-    "physicsShapePoints": [
-        
-    ],
+    "physicsShape": 1,
+    "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "003036e4-6dd8-4918-aa34-2e75b6368318",
+    "spriteId": "83e08261-33f9-4ed6-8563-12a8d449399f",
     "visible": true
 }
